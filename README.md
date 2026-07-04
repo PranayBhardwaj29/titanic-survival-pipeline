@@ -79,8 +79,8 @@ All of this is wrapped in a single `sklearn.pipeline.Pipeline` object — meanin
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/PranayBhardwaj29/titanic-survival-pipeline.git
+cd titanic-survival-pipeline
 
 # Install dependencies
 pip install -r requirements.txt
