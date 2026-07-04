@@ -107,6 +107,7 @@ prediction = pipe.predict(new_passenger_df)
 ├── end_to_end.ipynb        # Full pipeline notebook
 ├── titanic_pipeline.pkl    # Saved, deployable pipeline
 ├── requirements.txt        # Dependencies
+├── app.py                  # The actual app that runs locally
 └── README.md
 ```
 
