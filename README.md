@@ -1,5 +1,7 @@
 # 🚢 Titanic Survival Predictor — End-to-End ML Pipeline
 
+## App = https://titanic-survival-pipeline.streamlit.app/
+
 A complete, production-style machine learning pipeline that takes raw Titanic passenger data and predicts survival — built entirely with `scikit-learn`'s `Pipeline` and `ColumnTransformer`, with no manual, error-prone preprocessing steps.
 
 This isn't a "get accuracy once and stop" notebook. Every preprocessing decision below was reasoned through deliberately (including the mistakes caught and fixed along the way), then chained into a single reusable, leak-free pipeline object.
