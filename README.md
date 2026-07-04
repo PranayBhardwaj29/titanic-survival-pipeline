@@ -72,6 +72,7 @@ All of this is wrapped in a single `sklearn.pipeline.Pipeline` object — meanin
 - scikit-learn (`ColumnTransformer`, `Pipeline`, `OrdinalEncoder`, `OneHotEncoder`, `StandardScaler`, `SimpleImputer`, `LogisticRegression`)
 - seaborn (built-in Titanic dataset)
 - joblib (model persistence)
+- streamlit
 
 ---
 
